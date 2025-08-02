@@ -27,6 +27,7 @@
     "nodemailer": "^7.0.5"
   },
   "devDependencies": {
-    "karma-typescript": "^5.5.3"
+    "karma-typescript": "^5.5.3",
+    "react-scripts": "^5.0.1"
   }
 }
